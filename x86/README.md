@@ -31,4 +31,4 @@ Decryption reverses the encryption process using the same algorithm with inverse
 
 ## How to Run
 
-Run the program using an x86 assembler and emulator.
+Run the program using an x86 emulator.
