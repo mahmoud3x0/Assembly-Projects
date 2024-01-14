@@ -1,6 +1,6 @@
 # Tiny Encryption and Decryption Algorithm
 
-This assembly project demonstrates a simple encryption and decryption algorithm using x86 architecture. It prompts the user to choose between encryption, decryption, or both, and processes a 4-character input.
+This assembly project implements a simple encryption and decryption algorithm using x86 architecture. It prompts the user to choose between encryption, decryption, or both, and processes a 4-character input.
 
 ## Usage
 
